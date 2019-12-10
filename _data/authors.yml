@@ -1,0 +1,59 @@
+author_template:
+  name: Template
+  picture: /images/dtrca.png
+  links:
+    - title: Twitter
+      url: 
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: 
+      icon: fab fa-instagram
+    - title: GitHub
+      url: 
+      icon: fab fa-github-square
+
+ncdrjang:
+  name: Hanyong Jang
+  picture: /images/profiles/ncdrjang.jpg
+  links:
+    - title: Twitter
+      url: 
+      icon: fab fa-twitter-square
+    - title: Instagram
+      url: 
+      icon: fab fa-instagram
+    - title: GitHub
+      url: 
+      icon: fab fa-github-square
+
+requiem4546:
+  name: Byungjun Kwon
+  picture: /images/profiles/requiem4546.png
+
+dtrca:
+  name: Jungsu Park
+  picture: /images/profiles/dtrca.png
+
+eunbi:
+  name: Eunbi Seol
+  picture: /images/profiles/eunbi.png
+
+jaekyuoh:
+  name: Jaekyu Oh
+  picture: /images/profiles/jaekyuoh.png
+
+june5:
+  name: June Oh
+  picture: /images/profiles/june5.png
+
+moonwonyu:
+  name: Moonwon Yu
+  picture: /images/profiles/moonwonyu.png
+
+yoondm:
+  name: Dumim Yoon
+  picture: /images/profiles/yoondm.png
+
+swchung:
+  name: Seongwoo Chung
+  picture: /images/profiles/swchung.png

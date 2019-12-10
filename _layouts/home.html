@@ -1,0 +1,16 @@
+---
+layout: page
+pagination: 
+  enabled: true
+---
+
+{{ content }}
+
+<div class="entries-{{ page.entries_layout | default: 'list' }}">
+  {%- if site.plugins contains 'jekyll-paginate' -%}
+    {% include posts-paginated.html %}
+  {%- else -%}
+  	여기 들어온 것 같은데? {{ site.plugins }}
+    {% include posts-limit.html %}
+  {%- endif -%}
+</div>
