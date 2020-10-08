@@ -6,6 +6,10 @@ categories:
 author: dtrca
 ---
 
+<figure class="align-center">
+  <a href="#"><img src="{{ '/images/posts/2020-10-09-U-Net.png' | absolute_url }}" alt=""></a>
+</figure>
+
 Motion retargeting is the process of copying motion from one character(source) to another(target) when the source and target body sizes and proportions(of arms, legs, torso, and so on) are different. The problem of automatic motion retargeting has been studied for several decades; however, the motion quality obtained with the application of current approaches is on occasion unrealistic. To address these issues, we present a novel human motion retargeting system using a deep learning framework with large-scale motion data to produce high-quality retargeted human motion. We establish a deep-learning-based motion retargeting system using a variational deep autoencoder combining the deep convolutional inverse graphics network(DC-IGN) and the U-Net. The DC-IGN is utilized for disentangling the motion of each body part, while the U-Net is employed to preserve details of the original motion.
 
 ### Authors
