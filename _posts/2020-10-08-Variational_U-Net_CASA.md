@@ -1,6 +1,6 @@
 ---
 title: "CASA 2020: A Variational U-Net for Motion Retargeting"
-date: 2019-04-12 11:11:00
+date: 2020-10-08 16:43:30
 categories:
   - News
 author: dtrca
