@@ -19,3 +19,7 @@ Hanyoung Jang, Byungjun Kwon, Moonwon Yu(NCSOFT), Seong Uk Kim, Jongmin Kim(Kang
 SA '18 SIGGRAPH Asia 2018 Posters Article No. 1 
 
 [A variational U-Net for motion retargeting](https://dl.acm.org/citation.cfm?id=3283316)
+
+### Related Posts
+
+[CASA 2020: A Variational U-Net for Motion Retargeting](https://nc-moai.github.io/news/Variational_U-Net_CASA/)
