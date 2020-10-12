@@ -5,8 +5,8 @@ permalink: /publications/
 ---
 
 ## International Papers
-* **A Robust Low-cost Mocap System with Sparse Sensors**, ***SIGGRAPH ASIA 2020*** *(Poster Session)*, November 18-20, Online Event
-* **A Variational U-Net for Motion Retargeting**, ***CASA 2020***, October 13-15, Bournemouth, United Kingdom
+<!---* **A Robust Low-cost Mocap System with Sparse Sensors**, ***SIGGRAPH ASIA 2020*** *(Poster Session)*, November 18-20, Online Event-->
+* [**A Variational U-Net for Motion Retargeting**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1947), ***CASA 2020***, October 13-15, Bournemouth, United Kingdom
 * [**Human Motion Denoising Using Attention-Based Bidirectional Recurrent Neural Network**](https://www.youtube.com/watch?v=-E_CfjWCJ6A), ***SIGGRAPH ASIA 2019*** *(Poster Session)*, November 17-20, 2019, Brisbane, Australia
 * [**Fast Terrain-Adaptive Motion Generation using Deep Neural Networks**](https://www.youtube.com/watch?v=4DpwvWe9hOM), ***SIGGRAPH ASIA 2019*** *(Technical Brief)*, November 17-20, 2019, Brisbane, Australia
 * [**A Variational U-Net for Motion Retargeting**](https://www.youtube.com/watch?v=Kv2ayFELxHg&t=95s), ***SIGGRAPH ASIA 2018*** *(Poster Session)*, Decenber 4-7, 2018, Tokyo, Japan

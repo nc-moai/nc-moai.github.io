@@ -36,4 +36,4 @@ We hope you enjoy that link, and if you have any question, feel free to <a href=
 | <figure style="width:100px"><img src="{{ '/images/profiles/yoondm.png' | absolute_url }}"></figure> | Dumim Yoon | Facial Performance Capture, 3D Reconstruction |
 | <figure style="width:100px"><img src="{{ '/images/profiles/whcjs13.png' | absolute_url }}"></figure> | Kyungho Lee | Character Animation |
 | <figure style="width:100px"><img src="{{ '/images/profiles/minwook.png' | absolute_url }}"></figure> | Minwook Chang | Motion Denoising |
-| <figure style="width:100px"><img src="{{ '/images/profiles/swchung.png' | absolute_url }}"></figure> | Seongwoo Chung | Facial Animation |
+| <figure style="width:100px"><img src="{{ '/images/profiles/swchung.png' | absolute_url }}"></figure> | Seongwoo Chung | Facial Performance Retargeting, Direct Manipulation, Computer Graphics |

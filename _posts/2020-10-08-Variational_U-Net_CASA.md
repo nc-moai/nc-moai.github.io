@@ -14,9 +14,9 @@ Motion retargeting is the process of copying motion from one character(source) t
 
 ### Authors
 
-Seong Uk Kim, Jongmin Kim(Kangwon National University), Hanyoung Jang(NCSOFT)
+Seong Uk Kim(Kangwon National University), Hanyoung Jang(NCSOFT), Jongmin Kim(Kangwon National University)
 
-[A variational U-Net for motion retargeting](/papers/CAVW_A_Variational_U_Net_for_Motion_Retargeting.pdf)
+[A variational U-Net for motion retargeting](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1947)
 
 ### Related Posts
 
