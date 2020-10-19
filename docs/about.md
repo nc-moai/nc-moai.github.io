@@ -30,7 +30,7 @@ We hope you enjoy that link, and if you have any question, feel free to <a href=
 | <figure style="width:100px"><img src="{{ '/images/profiles/requiem4546.png' | absolute_url }}"></figure> | Byungjun Kwon | Deep Learning, Character Animation, Performance Capture |
 | <figure style="width:100px"><img src="{{ '/images/profiles/dtrca.png' | absolute_url }}"></figure> | Jungsu Park | Speech Recognition, Facial Animation, Deep Learning |
 | <figure style="width:100px"><img src="{{ '/images/profiles/eunbi.png' | absolute_url }}"></figure> | Eunbi Seol | Facial Performance Capture, Facial Animation |
-| <figure style="width:100px"><img src="{{ '/images/profiles/jaekyuoh.png' | absolute_url }}"></figure> | Jaekyu Oh | Facial Animation, Machine Learning |
+| <figure style="width:100px"><img src="{{ '/images/profiles/jaekyuoh.png' | absolute_url }}"></figure> | Jaekyu Oh | Facial Animation, Deep Learning |
 | <figure style="width:100px"><img src="{{ '/images/profiles/june5.png' | absolute_url }}"></figure> | June Oh | Facial Animation, Machine Learning |
 | <figure style="width:100px"><img src="{{ '/images/profiles/moonwonyu.png' | absolute_url }}"></figure> | Moonwon Yu | Inverse Kinematics, Style Transfer, Character Animation |
 | <figure style="width:100px"><img src="{{ '/images/profiles/yoondm.png' | absolute_url }}"></figure> | Dumim Yoon | Facial Performance Capture, 3D Reconstruction |
