@@ -87,7 +87,7 @@ defaults:
       share: true
 
 # Pagination - https://jekyllrb.com/docs/pagination/
-paginate: 3
+paginate: 5
 paginate_path: /page:num/
 
 # Site Author
