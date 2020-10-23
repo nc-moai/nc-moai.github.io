@@ -1,21 +1,21 @@
 ---
 title: "The Originality: Game AI Moonwon Yu"
+image: 
+  path: /images/posts/null.png
+  thumbnail: /images/posts/2019-08-21-The_Originality_THUMB.png
 date: 2019-08-21 12:26:00
 categories:
   - News
 author: dtrca
 ---
 
+유문원 팀원이 *The Originality* 포스트로 엔씨소프트 블로그에 소개되었습니다.
+
 <figure class="align-center">
   <a href="#"><img src="{{ '/images/posts/2019-08-21-The_Originality.jpg' | absolute_url }}" alt=""></a>
 </figure>
 
-유문원 팀원이 다음의 컨텐츠로 엔씨소프트 블로그에 포스팅 되었습니다.
-
-*The Originality*
-
 엔씨소프트의 전문 직무를 담당하는 사우의 인터뷰를 통해 신입공채나 경력으로 엔씨에 입사하기를 희망하는 사람들에게, 그리고 기업으로서의 엔씨를 궁금해하는 많은 사람들에게 기업으로서의 이미지를 표현할 수 있기를 희망합니다.
-
 
 ## 본문
 

@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-#theme: jekyll-theme-so-simple
+theme: jekyll-theme-so-simple
 remote_theme: "mmistakes/so-simple-theme@3.2.0"
 locale: en-US
 title: "Motion AI"
@@ -49,7 +49,7 @@ feed:
 # Search
 search_full_content: false # can have performance implications for large sites
 
-excerpt_separator: <!--more-->
+excerpt_separator: "\n\n"
 
 # Taxonomy pages
 # category_archive_path: "/categories/#"

@@ -1,17 +1,20 @@
 ---
 title: "Press: Control Face by Voice... NCSOFT Pioneers the Era of Game AI"
+image: 
+  path: /images/posts/null.png
+  thumbnail: /images/posts/2019-06-04-Facial_Main.jpg
 date: 2019-06-04 11:04:00
 categories:
   - News
 author: dtrca
 ---
 
+5월 24일 국내 언론사 '동아일보'에 Motion AI 팀의 캐릭터 애니메이션 생성 기술에 대한 기사가 올라왔습니다. [Lip Sync 프로젝트](/research/Lip_Sync/)는 사람의 음성에 맞춰 캐릭터의 표정을 자동으로 생성하고 자연스럽게 변화시키는 기술로써, 현재 Motion AI 팀의 주력 프로젝트 중 하나입니다.
+
 <figure class="align-center">
   <a href="#"><img src="{{ '/images/posts/2019-06-04-Facial_Main.jpg' | absolute_url }}" alt=""></a>
   <figcaption>사진 출처: <a href="http://www.donga.com/news/article/all/20190523/95653771/1">http://www.donga.com/news/article/all/20190523/95653771/1</a></figcaption>
 </figure> 
-
-5월 24일 국내 언론사 '동아일보'에 Motion AI 팀의 캐릭터 애니메이션 생성 기술에 대한 기사가 올라왔습니다. [Lip Sync 프로젝트](/research/Lip_Sync/)는 사람의 음성에 맞춰 캐릭터의 표정을 자동으로 생성하고 자연스럽게 변화시키는 기술로써, 현재 Motion AI 팀의 주력 프로젝트 중 하나입니다.
 
 ## 본문
 
