@@ -2,14 +2,14 @@
 title: "SIGGRAPH Asia 2020: A Robust Low-cost Mocap System with Sparse Sensors"
 image: 
   path: /images/posts/null.png
-  thumbnail: /images/posts/2020-12-25-Robust_MoCap.png
+  thumbnail: /images/posts/2020-12-25-Robust_TMB.png
 date: 2020-12-25 08:39:00
 categories:
   - Conference
 author: dtrca
 ---
 
-컴퓨터 그래픽스 학회인 SIGGRAPH Asia 2020 Motion AI 팀의 A Robust Low-cost Mocap System with Sparse Sensors 연구가 소개되었습니다.
+컴퓨터 그래픽스 학회인 SIGGRAPH Asia 2020에 Motion AI 팀의 A Robust Low-cost Mocap System with Sparse Sensors 연구가 소개되었습니다.
 
 <figure class="align-center">
   <a href="#"><img src="{{ '/images/posts/2020-12-25-Robust_MoCap.png' | absolute_url }}" alt=""></a>
