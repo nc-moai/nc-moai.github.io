@@ -21,7 +21,9 @@ This paper proposes a novel generative model called PUGAN, which progressively s
 
 ### Authors
 
-Youngwoo Cho*(KAIST), Minwook Chang*(NCSOFT), Sanghyeon Lee(KAIST), Hyoungwoo Lee(KAIST), Gerard Jounghyun Kim(Korea University), and Jaegul Choo(KAIST)
+Youngwoo Cho(KAIST), Minwook Chang(NCSOFT), Sanghyeon Lee(KAIST), Hyoungwoo Lee(KAIST), Gerard Jounghyun Kim(Korea University), and Jaegul Choo(KAIST)
+
+
 [Demo Page of PUGAN](https://pugan-icassp-demo.herokuapp.com/)
 
 ### Proceeding

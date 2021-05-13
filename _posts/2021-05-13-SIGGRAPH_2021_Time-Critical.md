@@ -22,6 +22,8 @@ Creating agile and responsive characters from a collection of unorganized human 
 ### Authors
 
 Kyungho Lee(NCSOFT), Sehee Min, Sunmin Lee, Jehee Lee(Seoul National University)
+
+
 [Learning Time-Critical Responses for Interactive Character Control](http://mrl.snu.ac.kr/research/ProjectAgile/Agile.html)
 
 ### Proceeding
