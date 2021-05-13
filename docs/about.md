@@ -32,11 +32,13 @@ We hope you enjoy that link, and if you have any question, feel free to <a href=
 | <img src="/images/profiles/ncdrjang.jpg" width="150"> | Hanyoung Jang<br><b>Team Leader</b> | Game AI, Computer Graphics, General-purpose GPUs, Robotics |
 | <img src="/images/profiles/requiem4546.png" width="150"> | Byungjun Kwon | Deep Learning, Character Animation, Performance Capture |
 | <img src="/images/profiles/dtrca.png" width="150"> | Jungsu Park | Speech Recognition, Facial Animation, Deep Learning |
+| <img src="/images/profiles/jiunbae.png" width="150"> | Jiun Bae | Machine Learning, Computer Vision |
 | <img src="/images/profiles/eunbi.png" width="150"> | Eunbi Seol | Facial Performance Capture, Facial Animation |
-| <img src="/images/profiles/jaekyuoh.png" width="150"> | Jaekyu Oh | Facial Animation, Deep Learning |
 | <img src="/images/profiles/june5.png" width="150"> | June Oh | Facial Animation, Machine Learning |
+| <img src="/images/profiles/jaywi.png" width="150"> | Jeong A Wi | Computer Graphics, Facial Animation, Deep Learning |
 | <img src="/images/profiles/moonwonyu.png" width="150"> | Moonwon Yu | Inverse Kinematics, Style Transfer, Character Animation |
 | <img src="/images/profiles/yoondm.png" width="150"> | Dumim Yoon | Facial Performance Capture, 3D Reconstruction |
 | <img src="/images/profiles/whcjs13.png" width="150"> | Kyungho Lee | Character Animation, Deep Learning |
 | <img src="/images/profiles/minwook.png" width="150"> | Minwook Chang | Motion Capture, Generative Adversarial Networks, Human-Computer Interaction |
 | <img src="/images/profiles/swchung.png" width="150"> | Seongwoo Chung | Facial Performance Retargeting, Direct Manipulation, Computer Graphics |
+| <img src="/images/profiles/ncsicho.png" width="150"> | Sungik Cho | Facial Performance Capture, 3D Reconstruction, Facial Animation |

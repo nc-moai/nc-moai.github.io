@@ -34,17 +34,21 @@ dtrca:
   name: Jungsu Park
   picture: /images/profiles/dtrca.png
 
+jiunbae:
+  name: Jiun Bae
+  picture: /images/profiles/jiunbae.png
+
 eunbi:
   name: Eunbi Seol
   picture: /images/profiles/eunbi.png
 
-jaekyuoh:
-  name: Jaekyu Oh
-  picture: /images/profiles/jaekyuoh.png
-
 june5:
   name: June Oh
   picture: /images/profiles/june5.png
+
+jaywi:
+  name: Jeong A Wi
+  picture: /images/profiles/jaywi.png
 
 moonwonyu:
   name: Moonwon Yu
@@ -61,3 +65,7 @@ whcjs13:
 swchung:
   name: Seongwoo Chung
   picture: /images/profiles/swchung.png
+
+ncsicho:
+  name: Sungik Cho
+  picture: /images/profiles/ncsicho.png
