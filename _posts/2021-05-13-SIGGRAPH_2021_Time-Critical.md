@@ -6,7 +6,7 @@ image:
 date: 2021-05-13 17:02:23
 categories:
   - Conference
-author: dtrca
+author: whcjs13
 ---
 
 컴퓨터 그래픽스 학회인 SIGGRAPH 2021에 Motion AI 팀의 Learning Time-Critical Responses for Interactive Character Control 연구가 소개되었습니다.

@@ -6,7 +6,7 @@ image:
 date: 2021-05-13 16:58:13
 categories:
   - Conference
-author: dtrca
+author: minwook
 ---
 
 국제 음향 음성 신호처리 학술대회인 IEEE ICASSP 2021에 Motion AI 팀의 Efficient Adversarial Audio Synthesis via Progressive Upsampling 연구가 소개되었습니다.
