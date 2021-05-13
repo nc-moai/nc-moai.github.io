@@ -5,6 +5,8 @@ permalink: /publications/
 ---
 
 ## International Papers
+* [**Learning Time-Critical Responses for Interactive Character Control**](http://mrl.snu.ac.kr/research/ProjectAgile/Agile.html), ***SIGGRAPH 2021*** *(Technical Paper)*, August 9–13, Online Event
+* **Efficient Adversarial Audio Synthesis via Progressive Upsampling**, ***ICASSP 2021***, June 6-11, Online Event
 * [**A Robust Low-cost Mocap System with Sparse Sensors**](/papers/SIGGRAPH_AISA_ABSTRACT_2020.pdf), ***SIGGRAPH ASIA 2020*** *(Poster Session)*, November 18-20, Online Event
 * [**A Variational U-Net for Motion Retargeting**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1947), ***CASA 2020*** *(Best Paper Nominee)*, October 13-15, Bournemouth, United Kingdom
 * [**Human Motion Denoising Using Attention-Based Bidirectional Recurrent Neural Network**](https://www.youtube.com/watch?v=-E_CfjWCJ6A), ***SIGGRAPH ASIA 2019*** *(Poster Session)*, November 17-20, 2019, Brisbane, Australia
