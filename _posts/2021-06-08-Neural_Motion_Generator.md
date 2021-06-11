@@ -27,5 +27,5 @@ Neural Network를 활용하여 모션 캡쳐 수준의 고품질 모션을 실�
 
 #### 캐릭터 간 상호작용 
 <video width="560" height="315" controls>
-  <source src="/images/posts/2021-06-08-NMotion_Evade_Demo.mov" type="video/mov">
+  <source src="/images/posts/2021-06-08-NMotion_Evade_Demo.mp4" type="video/mp4">
 </video>
