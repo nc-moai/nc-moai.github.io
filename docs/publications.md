@@ -5,6 +5,7 @@ permalink: /publications/
 ---
 
 ## International Papers
+* [**Human motion reconstruction using deep transformer networks**](https://www.sciencedirect.com/science/article/abs/pii/S0167865521002245), ***Pattern Recognition Letters 2021***
 * [**Learning Time-Critical Responses for Interactive Character Control**](http://mrl.snu.ac.kr/research/ProjectAgile/Agile.html), ***SIGGRAPH 2021*** *(Technical Paper)*, August 9–13, Online Event
 * **Efficient Adversarial Audio Synthesis via Progressive Upsampling**, ***ICASSP 2021***, June 6-11, Online Event
 * [**A Robust Low-cost Mocap System with Sparse Sensors**](/papers/SIGGRAPH_AISA_ABSTRACT_2020.pdf), ***SIGGRAPH ASIA 2020*** *(Poster Session)*, November 18-20, Online Event
@@ -15,12 +16,13 @@ permalink: /publications/
 * [**Deep Motion Transfer without Big Data**](https://www.youtube.com/watch?v=hrARRDrawIQ&t=15s), ***SIGGRAPH 2018*** *(Poster Session)*, August 12-16, 2018, Vancouver, BC, Canada
 
 ## International Patents
-* **Apparatus and Method for Motion Synthesization**, USA Patent Pending
+* **Motion synthesis apparatus and motion synthesis method**, USA 10957087(2021.03.23)
 * **Method for Rendering Terrain**, USA 9959670(2018.05.01)
 
 ## Domestic Patents
+* **신경망을 이용하여 사용자 입력에 대응하는 시각적 객체의 상태를 식별하기 위한 전자 장치, 방법, 및 비일시적 컴퓨 터 판독가능 저장 매체**, 2021-08-05
+* **동작 생성 모델 학습 장치 및 동작 생성 모델 학습 방법**, 2021-05-25
 * **모션 합성 장치 및 모션 합성 방법**, 출원 중
-* **동작 생성 모델 학습 장치 및 방법, 동작 생성 장치 및 방법**, 출원 중
 * **게임 동작 결정 장치 및 방법**, 출원 중
 * **게임 매칭 장치 및 방법**, 출원 중
 * **이벤트 정보 송신 장치 및 방법, 이벤트 정보 출력 장치 및 방법**, 출원 중
