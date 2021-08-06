@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ## International Papers
-* [**Human motion reconstruction using deep transformer networks**](https://www.sciencedirect.com/science/article/abs/pii/S0167865521002245), ***Pattern Recognition Letters 2021***
+* [**Human Motion Reconstruction Using Deep Transformer Networks**](https://www.sciencedirect.com/science/article/abs/pii/S0167865521002245), ***Pattern Recognition Letters 2021***
 * [**Learning Time-Critical Responses for Interactive Character Control**](http://mrl.snu.ac.kr/research/ProjectAgile/Agile.html), ***SIGGRAPH 2021*** *(Technical Paper)*, August 9–13, Online Event
 * **Efficient Adversarial Audio Synthesis via Progressive Upsampling**, ***ICASSP 2021***, June 6-11, Online Event
 * [**A Robust Low-cost Mocap System with Sparse Sensors**](/papers/SIGGRAPH_AISA_ABSTRACT_2020.pdf), ***SIGGRAPH ASIA 2020*** *(Poster Session)*, November 18-20, Online Event
@@ -16,7 +16,7 @@ permalink: /publications/
 * [**Deep Motion Transfer without Big Data**](https://www.youtube.com/watch?v=hrARRDrawIQ&t=15s), ***SIGGRAPH 2018*** *(Poster Session)*, August 12-16, 2018, Vancouver, BC, Canada
 
 ## International Patents
-* **Motion synthesis apparatus and motion synthesis method**, USA 10957087(2021.03.23)
+* **Motion Synthesis Apparatus and Motion Synthesis Method**, USA 10957087(2021.03.23)
 * **Method for Rendering Terrain**, USA 9959670(2018.05.01)
 
 ## Domestic Patents
