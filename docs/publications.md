@@ -5,11 +5,11 @@ permalink: /publications/
 ---
 
 ## International Papers
-* [**Human Motion Reconstruction Using Deep Transformer Networks**](https://www.sciencedirect.com/science/article/abs/pii/S0167865521002245), ***Pattern Recognition Letters 2021***
-* [**Learning Time-Critical Responses for Interactive Character Control**](http://mrl.snu.ac.kr/research/ProjectAgile/Agile.html), ***SIGGRAPH 2021*** *(Technical Paper)*, August 9–13, Online Event
+* [**Human Motion Reconstruction Using Deep Transformer Networks**](https://www.sciencedirect.com/science/article/abs/pii/S0167865521002245), ***Pattern Recognition Letters 2021*** (SCIE IF:3.255)
+* [**Learning Time-Critical Responses for Interactive Character Control**](http://mrl.snu.ac.kr/research/ProjectAgile/Agile.html), ***SIGGRAPH 2021*** *(Technical Paper)*, August 9–13, Online Event (SCI IF:5.084)
 * **Efficient Adversarial Audio Synthesis via Progressive Upsampling**, ***ICASSP 2021***, June 6-11, Online Event
 * [**A Robust Low-cost Mocap System with Sparse Sensors**](/papers/SIGGRAPH_AISA_ABSTRACT_2020.pdf), ***SIGGRAPH ASIA 2020*** *(Poster Session)*, November 18-20, Online Event
-* [**A Variational U-Net for Motion Retargeting**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1947), ***CASA 2020*** *(Best Paper Nominee)*, October 13-15, Bournemouth, United Kingdom
+* [**A Variational U-Net for Motion Retargeting**](https://onlinelibrary.wiley.com/doi/abs/10.1002/cav.1947), ***CASA 2020*** *(Best Paper Nominee)*, October 13-15, Bournemouth, United Kingdom (SCIE IF:0.654)
 * [**Human Motion Denoising Using Attention-Based Bidirectional Recurrent Neural Network**](https://www.youtube.com/watch?v=-E_CfjWCJ6A), ***SIGGRAPH ASIA 2019*** *(Poster Session)*, November 17-20, 2019, Brisbane, Australia
 * [**Fast Terrain-Adaptive Motion Generation using Deep Neural Networks**](https://www.youtube.com/watch?v=4DpwvWe9hOM), ***SIGGRAPH ASIA 2019*** *(Technical Brief)*, November 17-20, 2019, Brisbane, Australia
 * [**A Variational U-Net for Motion Retargeting**](https://www.youtube.com/watch?v=Kv2ayFELxHg&t=95s), ***SIGGRAPH ASIA 2018*** *(Poster Session)*, Decenber 4-7, 2018, Tokyo, Japan
