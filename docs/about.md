@@ -31,6 +31,7 @@ We hope you enjoy that link, and if you have any question, feel free to <a href=
 |---|------|-------------------|
 | <img src="/images/profiles/ncdrjang.jpg" width="150"> | Hanyoung Jang<br><b>Team Leader</b> | Game AI, Computer Graphics, General-purpose GPUs, Robotics |
 | <img src="/images/profiles/requiem4546.png" width="150"> | Byungjun Kwon | Deep Learning, Character Animation, Performance Capture |
+| <img src="/images/profiles/yhkim.png" width="150"> | Yoonhee Kim | AI Engineering, Model Serving, Deployment |
 | <img src="/images/profiles/dtrca.png" width="150"> | Jungsu Park | Speech Recognition, Facial Animation, Deep Learning |
 | <img src="/images/profiles/jiunbae.png" width="150"> | Jiun Bae | Machine Learning, Computer Vision |
 | <img src="/images/profiles/eunbi.png" width="150"> | Eunbi Seol | Facial Performance Capture, Facial Animation |
