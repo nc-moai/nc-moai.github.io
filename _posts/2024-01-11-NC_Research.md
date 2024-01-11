@@ -17,5 +17,4 @@ Graphics 분야 뿐 아니라 Speech, Vision, NLP 등 다양한 분야의 최신
   <a href="https://ncsoft.github.io/ncresearch/"><img src="{{ '/images/posts/2024-01-11-NC_Research.png' | absolute_url }}" alt=""></a>
 </figure>
 
-<br>
 ↑ NC Research 홈페이지 둘러보기
